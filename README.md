@@ -1,6 +1,7 @@
 ![cover](https://github.com/sk1nzz/theweather/raw/master/src/assets/app_cover.png)
 # TheWeather
 ### Погода сейчас, прогноз на 5 дней, данные о погоде - на вашем ПК!
+[Скачать для Windows](https://github.com/sk1nzz/theweather/releases/download/1.0.0/theweather-1.0.0.Setup.exe)
 
 ### Возможности
 * Смотрите погоду сейчас: ощущаемая температура, влажность, ветер и т.д.
@@ -22,7 +23,7 @@
 * API: OpenWeatherMap
 
 ### Установка
-* Готовый релиз:
+* Релиз: см. выше
 * Через командную строку:
 ```
 npm install
